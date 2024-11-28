@@ -10,7 +10,7 @@
     <br>
 
     <label for="Sur-Name"><b>surname</b></label>
-    <input type="text" placeholder="Enter surname" name="surname" id="surname" required>
+    <input type="text" placeholder="Enter sur-name" name="surname" id="surname" required>
     <br>
 
     <label for="email"><b>Email</b></label>
